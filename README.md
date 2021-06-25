@@ -1,14 +1,14 @@
 # CDDC-2021
 Writeups on some of the challenges my team solved in CDDC 2021
 # Table of Contents
-* [Let's Go Hunting (OSINT)]
+* [Let's Go Hunting (OSINT)](https://github.com/ZYChua02/CDDC-2021#lets-go-hunting-osint)
   * [Track him down!](https://github.com/ZYChua02/CDDC-2021#track-him-down)
-* [Linux Rules The World! (Linux)]
+* [Linux Rules The World! (Linux)](https://github.com/ZYChua02/CDDC-2021#linux-rules-the-world-linux)
   * [Opening the Gate](https://github.com/ZYChua02/CDDC-2021#opening-the-gate)
   * [Scrambled Eggs](https://github.com/ZYChua02/CDDC-2021#scrambled-eggs)
-* [Web Takedown Episode 1 (Web Vulnerabilities)]
+* [Web Takedown Episode 1 (Web Vulnerabilities)](https://github.com/ZYChua02/CDDC-2021#web-takedown-episode-1-web-vulnerabilities)
   * [AccessKey](https://github.com/ZYChua02/CDDC-2021#accesskey)
-* [Post Mortem (Forensics)]
+* [Post Mortem (Forensics)](https://github.com/ZYChua02/CDDC-2021#post-mortem-forensics)
   * [Look Closer](https://github.com/ZYChua02/CDDC-2021#look-closer)
 * [Credits for challenges](https://github.com/ZYChua02/CDDC-2021#credits-for-challenges)
 * [Personal thoughts on the CTF](https://github.com/ZYChua02/CDDC-2021#personal-thoughts-on-the-ctf)
@@ -143,7 +143,7 @@ Target URL: http://122.248.246.76/YY67RIGZ
 </br>
 </br>
 Hint #1:	Find the secret.js file and try to figure out how you can decode it.
-# Approach
+## Approach
 I first went to find any js files associated and found the secret.js file
 </br>
 </br>
@@ -160,7 +160,7 @@ We realised this was ASCII Numbers so with the help of rapid tables we were able
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/123443536-90a8dc00-d608-11eb-830d-c0e3d6ed7e0e.png)
-# The flag
+## The flag
 `CDDC21{_ De0bfu$cated-F!aG_} `
 # Post Mortem (Forensics)
 ## Look Closer
@@ -175,7 +175,7 @@ SHA256: 093e136f355bac6e40c4823e1e0b79c3cb6b31569ea03969f8f59dcdbdb10482
 </br>
 </br>
 Hint #1: If only xxd could do the opposite…
-# Approach
+## Approach
 We unzipped the file that was given and found a data.txt with gibberish
 </br>
 </br>
