@@ -77,7 +77,7 @@ One of TheKeepers has successfully obtained what seems to be one of the GDC priv
 Target IP: 13.213.192.83
 </br>
 </br>
-Link: Linux.zip
+Link: [Linux.zip](https://github.com/ZYChua02/CDDC-2021/blob/main/Files%20for%20challenges/Linux.zip)
 </br>
 </br>
 SHA256: 441bddcc9d80edd976573a57b53cc63eeac02151cc3086b9dbf556f9f2bbcd6a
@@ -168,7 +168,7 @@ We realised this was ASCII Numbers so with the help of rapid tables we were able
 The resistance managed to find a suspicious file. They believe it contains some useful data. Unfortunately, they weren’t able to retrieve it. Help them find what they are looking for.
 </br>
 </br>
-Link: [LookCloser.zip]
+Link: [LookCloser.zip](https://github.com/ZYChua02/CDDC-2021/blob/main/Files%20for%20challenges/LookCloser.zip)
 </br>
 </br>
 SHA256: 093e136f355bac6e40c4823e1e0b79c3cb6b31569ea03969f8f59dcdbdb10482
