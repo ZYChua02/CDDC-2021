@@ -153,7 +153,7 @@ I first went to find any js files associated and found the secret.js file
 We found out that it was url encoded twice and with the help of cyberchef we are able to get the numbers
 </br>
 </br>
-![image](https://user-images.githubusercontent.com/65858555/123443304-5dfee380-d608-11eb-8bd4-b7b587208f74.png)
+![image](https://user-images.githubusercontent.com/65858555/123450600-7de5d580-d60f-11eb-91af-422c07f8f704.png)
 </br>
 </br>
 We realised this was ASCII Numbers so with the help of rapid tables we were able to quickly decode the flag
