@@ -50,7 +50,7 @@ We clicked on the view members tab (highlighted in blue) and inspect element on 
 ![image](https://user-images.githubusercontent.com/65858555/123439733-9bfa0880-d604-11eb-8951-be2f24dfa685.png)
 </br>
 </br>
-After a bit of scrolling, we were then able to find his google id (highlighted in blue)
+After a bit of scrolling, we were then able to find his google id (underlined in blue)
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/123440133-0b6ff800-d605-11eb-9e12-fdb9f49f1f4b.png)
@@ -212,7 +212,8 @@ Gladys Chua - Track him down!
 </br>
 Tsen Fan Loong - Scrambled Eggs and AccessKey
 # Personal thoughts on the CTF
-Honestly, to sum up in one word, I would say that it is unfortunate. This CTF has been a mess in terms of organisation and having to delay the start time by 24 hours is clearly not acceptable. Furthermore, there were many bugs, such as someone pwning the linux server and it always being down. However, I did learn something new through the OSINT Challenge, which was very creative and unlike any I have done before in previous CTF and the Forensics Challenge, whereby I did not know that a hexdump can be encoded in base64. Overall, while it was mostly disappointing due to the infrastrcture, I am glad that I took something away from this CTF.
+Honestly, to sum up in one word, I would say that it is unfortunate. This CTF has been a mess in terms of organisation and having to delay the start time by 24 hours is clearly not acceptable. Furthermore, there were many bugs, such as someone pwning the linux server and it always being down. However, I did learn something new through the OSINT Challenge, which was very creative and unlike any I have done before in previous CTF and the Forensics Challenge, whereby I did not know that a hexdump can be encoded in base64. 
+Overall, while it was mostly disappointing due to the infrastructure, I am glad that I took something away from this CTF.
 </br>
 </br>
 I would also like to thank my teammates Gladys, Fan Loong and Tze Keat for taking part in this CTF even though it was during the term break and it being delayed by 1 day.
